@@ -17,11 +17,8 @@ React • Preact • Fresh (Deno) • TailwindCSS • Supabase • PHP/Composer
 **Mobile**:
 React Native • Expo
 
-**3D**:
-Spline
-
-**2D**:
-Lunacy
+**Design**:
+Spline (3D) • Lunacy (2D) • Figma (2D)
 
 ## Extra
 
