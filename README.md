@@ -11,16 +11,16 @@ Somehow, thanks to the sacred art of *Googling things*, I usually get away with 
 
 Despite still having a lot to learn, my skillset is fairly broad:
 
-### **Web**
+**Web**:
 React • Preact • Fresh (Deno) • TailwindCSS • Supabase • PHP/Composer
 
-### **Mobile**
+**Mobile**:
 React Native • Expo
 
-### **3D**
+**3D**:
 Spline
 
-### **2D**
+**2D**:
 Lunacy
 
 ## Extra
