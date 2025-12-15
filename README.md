@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-For reasons known only to the gods, you've reached my GitHub. So let me introduce myself real quick.
+For Gods know why reason, you've reached my GitHub. So let me introduce myself real quick.
 
 I’m **Chatelin**, a bilingual computer science student.
 Most of the time I’m knee-deep in heavy **TypeScript**, maintaining a monorepo of my own, digging through the Arch Linux or Hyprland wiki, writing about whatever grabs my curiosity… or crying over Rust’s pickiness.
@@ -17,7 +17,7 @@ Somehow, thanks to the sacred art of *Googling things*, I usually get away with 
 ## Extra
 
 That’s about it for now — but you can explore my projects to get a better sense of what I build and how I think.  
-For example: [hello-worlds](https://github.com/ctlinker/hello-worlds).
+For example check my: [Hello-Worlds](https://github.com/ctlinker/hello-worlds) (What i'm currently learning and how).
 
 <!--
 **ctlinker/ctlinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
