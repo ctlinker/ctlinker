@@ -1,35 +1,66 @@
-## Hi there 👋
+# Hi, Whoever You Are
 
-For Gods know why reason, you've reached my GitHub. So let me introduce myself real quick.
+For, Gods know why reason, You've reached my repository. So let me introduce myself real quick.
 
-I’m **Chatelin**, a bilingual computer science student.
-Most of the time I’m knee-deep in heavy **TypeScript**, maintaining a monorepo of my own, digging through the Arch Linux or Hyprland wiki, writing about whatever grabs my curiosity… or crying over Rust’s pickiness.
+I'm ctlinker, (or Chatelin IRL), A computer science student and general-purpose programmer.
 
-I love reading, learning, and being challenged — even when I have absolutely no idea what the h**k I’m doing.  
-Somehow, thanks to the sacred art of *Googling things*, I usually get away with it. Despite still having a lot to learn, my skillset is quite varied:
+Most of the time, you'll find me:
+- knee-deep in heavy **TypeScript**, maintaining a monorepo of my own,
+- digging through the **Arch Linux** or **Hyprland wiki**,
+- writing about whatever grabs my curiosity in **Obsidian**,
+- or quietly suffering over **Rust**’s… pickiness.
 
-- **🌐 Webdev:** React · Preact · Fresh · TailwindCSS · Supabase · PHP/Composer
-- **📱 Mobile:** React Native · Expo
-- **🎨 Design:** Spline · Lunacy · Figma
-- **⚙️ Scripting:** Fish · Lua · ZX
-- **📦 Package Managers:** pnpm · npm · moon · cargo · luarocks
+## How I Work
+
+I like building things from first principles—understanding why before relying on what.
+
+That usually means:
+
+- experimenting,
+- Googling,
+- brute-forcing solutions (sometimes with GPT 👀),
+- and when all else fails… actually reading the docs.
+
+## Languages
+
+- **PHP** (Composer ecosystem)
+- **Typescript** (Node, Bun,Deno)
+- **Go** (CLI tools, backend systems)
+- **Rust** (security / low-level curiosity)
+- **Zig** (Experimental)
+- **Bash** (automation & Linux tooling)
+
+## Skillset
+
+### Web Frontend
+
+- React
+- TailwindCSS
+- RippleJS
+- CSS (when necessary, unfortunately)
+
+### Web Backend
+
+- Supabase
+- Express (Node.js)
+- Fresh (Deno)
+- Chi (Go)
+
+### Other
+
+- Mobile: React Native
+- 2D Design: Lunacy (Figma alternative)
+- 3D Design: Spline
+- Scripting: Bash, zx
 
 ## Extra
 
-That’s about it for now — but you can explore my projects to get a better sense of what I build and how I think.  
-For example check my: [Hello-Worlds](https://github.com/ctlinker/hello-worlds) (What i'm currently learning and how).
+If you're here, you're probably either:
 
-<!--
-**ctlinker/ctlinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+curious,
+lost,
+or about to read some questionable code decisions.
 
-Here are some ideas to get you started:
+Either way—welcome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![wakatime](https://wakatime.com/badge/user/3d603efa-83da-44a8-9b16-0af254927897.svg)](https://wakatime.com/@3d603efa-83da-44a8-9b16-0af254927897)
