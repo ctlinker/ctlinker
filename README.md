@@ -1,4 +1,4 @@
-# Hi, Whoever You Are
+# Hi, Stranger
 
 For reasons unknown to both of us, you’ve landed on my GitHub profile. So let me introduce myself real quick.
 I’m a CS student with a strong bias toward TypeScript & Go (monorepos included), a habit of breaking things on Arch + Hyprland, and an on-and-off relationship with Rust.
