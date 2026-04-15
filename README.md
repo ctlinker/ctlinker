@@ -3,9 +3,7 @@
 For reasons unknown to both of us, you’ve landed on my GitHub profile. So let me introduce myself real quick.
 I’m a CS student with a strong bias toward TypeScript & Go (monorepos included), a habit of breaking things on Arch + Hyprland, and an on-and-off relationship with Rust.
 
-## How I Work
-
-I like building things from first principles—understanding why before relying on what.
+I build things from first principles—understanding Y before relying on X.
 
 That usually means:
 
