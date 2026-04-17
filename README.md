@@ -3,15 +3,6 @@
 Who knows why, but you’ve landed on my profile. So let me introduce myself real quick.
 I’m a CS student with a strong bias toward TypeScript & Go (monorepos included), a habit of breaking things on Arch + Hyprland, and an on-and-off relationship with Rust.
 
-I build things from first principles—understanding Y before relying on X.
-
-That usually means:
-
-- experimenting,
-- Googling,
-- brute-forcing solutions
-- and when all else fails… actually reading the docs.
-
 Either way—welcome.
 
 [![wakatime](https://wakatime.com/badge/user/3d603efa-83da-44a8-9b16-0af254927897.svg)](https://wakatime.com/@3d603efa-83da-44a8-9b16-0af254927897)
