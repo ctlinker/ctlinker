@@ -7,7 +7,7 @@ In short — I'm a hobbyist whom's in love with computer in general. From System
 - The ideal DSL isn't clever.
 - The ideal desktop isn't flashy.
 - The ideal framework isn't famous.
-- The ideal component isn't bloated.
+- The ideal component isn't smart.
 
 In general, I deal with :
 
