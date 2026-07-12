@@ -2,9 +2,9 @@
 
 You've reached my profile, So let me introduce myself real quick.
 
-In short — I'm a hobbyist whom's in love with computer in general. From System architecture, down to Electronic, passing by OS modding. I love it all, For me, the ideal DSL isn't clever, the ideal desktop isn't flashy, the ideal framework isn't famous, and the ideal component isn't smart.
+In short — I'm a hobbyist whom's in love with computer in general. From System architecture, down to Electronic, passing by OS modding. I love it all, For me, the ideal DSL isn't clever, the ideal desktop isn't flashy, the ideal framework isn't famous, the ideal component isn't smart.
 
-<p align="left">────────── In General, I Deal With :</p>
+<p align="left">────────── In General, I Deal With</p>
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=fff)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=fff)
