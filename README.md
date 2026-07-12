@@ -14,6 +14,7 @@ In general, I deal with :
 ![Antigravity](https://img.shields.io/badge/antigravity%20&%20gemini-000000?style=for-the-badge&logo=google-gemini&logoColor=fff)
 ![Go](https://img.shields.io/badge/go-000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=zig&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Fish Script](https://img.shields.io/badge/fish_script-%23121011.svg?style=for-the-badge&logo=fish-shell&logoColor=white)
