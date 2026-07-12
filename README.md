@@ -18,5 +18,6 @@ In general, I deal with :
 ![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=zig&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Fish Script](https://img.shields.io/badge/fish_script-%23121011.svg?style=for-the-badge&logo=fish-shell&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23121011.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
