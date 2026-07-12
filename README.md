@@ -4,7 +4,7 @@ You've reached my profile, So let me introduce myself real quick.
 
 In short — I'm a hobbyist whom's in love with computer in general. From System architecture, down to Electronic, passing by OS modding. I love it all, for me : The ideal DSL isn't clever, The ideal desktop isn't flashy, The ideal framework isn't famous, The ideal component isn't smart.
 
-In general, I deal with :
+<p align="center">────────── In General, I Deal With ──────────</p>
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=fff)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=fff)
